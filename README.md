@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate Backend Engineer and a WordPress developer.</h3>
+<h3 align="center">A passionate WordPress Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsjjad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsjjad" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, PHP Unit testing**
 
-- 💬 Ask me about **WordPress Plugins, WordPress Themes,**
+- 💬 Ask me about **WordPress Plugins/Themes,**
 
 - 📫 How to reach me **abdullahsajjad33@gmail.com**
 

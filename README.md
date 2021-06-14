@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate WordPress Engineer.</h3>
+<h3 align="center">A Passionate WordPress Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsajjad" /> </p>
 

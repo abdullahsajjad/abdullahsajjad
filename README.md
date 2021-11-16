@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsajjad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsajjad" /> </p>
 
-- 🌱 I’m currently learning **Docker, PHP Unit testing, React with WordPress**
-
 - 💬 Ask me about **WordPress Plugins/Themes,**
 
 - 📫 How to reach me **abdullah@abdullahsajjad.dev**
